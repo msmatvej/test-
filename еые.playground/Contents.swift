@@ -3,6 +3,7 @@ let u = 10
 for y in 1..<x {
     if y % 10 == 0{
         print("юбилей\(y)")
+        print("юбил=======ей\(y)")
     }else {
         print ("s dr \(y)")
     }
